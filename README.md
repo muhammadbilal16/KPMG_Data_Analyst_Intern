@@ -21,3 +21,6 @@ This programme covers all of the key skills of a data analytics consultant:
 
 ## Credits
 KPMG data analytics team
+
+## Certificate Link
+[m7W4GMqeT3bh9Nb2c_KPMG Australia_MRhRXAimzQD9rKwgZ_1652074322654_completion_certificate.pdf](https://github.com/muhammadbilal16/KPMG_Data_Analyst_Intern/files/8839415/m7W4GMqeT3bh9Nb2c_KPMG.Australia_MRhRXAimzQD9rKwgZ_1652074322654_completion_certificate.pdf)
